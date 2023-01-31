@@ -1,2 +1,4 @@
 # Practise3
-This is an example
+
+
+# Section 1
